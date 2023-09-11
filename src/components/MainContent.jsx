@@ -12,16 +12,23 @@ const products = [
     id: 2,
     name: 'shoe 2',
     description: 'Description for shoe 2',
-    price: 24.99,
+    price: 204.99,
     image: '/images/shoe2.jpg',
   },
   {
     id: 3,
     name: 'shoe 3',
     description: 'Description for shoe 3',
-    price: 14.99,
+    price: 10000.99,
     image: '/images/shoe3.jpg',
   },
+  {
+    id: 4,
+    name: 'shoe 3',
+    description: 'Description for shoe 3',
+    price: 199.99,
+    image: '/images/shoe3.jpg',
+  }
 ];
 
 function MainContent() {
